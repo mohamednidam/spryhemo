@@ -1,4 +1,8 @@
-    // Variable to hold request
+	// Show lp after 
+	secload = 4;
+	
+	
+	// Variable to hold request
     var request;
 
     var url = window.location.href;
@@ -30,7 +34,7 @@
 
         // Fire off the request to /form.php
         request = $.ajax({
-            url: "https://www.lamaroc.xyz/go/?order=OZahZAxNOVxtj8XDXISOWhNYXjKWDF",
+            url: "https://www.lamaroc.xyz/go/?order=9AVqIWyo1E9jLkkhrGB64jk2QbgAlF",
             type: "post",
             data: serializedData
         });
