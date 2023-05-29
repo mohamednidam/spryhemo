@@ -1,5 +1,5 @@
 	// Show lp after 
-	secload = 4;
+	secload = 6;
 	
 	
 	// Variable to hold request
